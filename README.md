@@ -20,9 +20,10 @@ git clone https://github.com/zyuzya1984/fzn.git
 cd fzn/
 chmod +x fzn
 ```
+
 (btw, make sure u create a folder for having ur notes)
 
-'''sh
+```sh
 mkdir ~/notes
 ```
 
